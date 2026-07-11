@@ -12,5 +12,3 @@ Enhances decision tree performance on imbalanced multiclass datasets.
 Improved classification accuracy on irregularly shaped decision boundaries.
 Easy-to-use interface for integration into existing machine learning pipelines.
 Comparative evaluation against traditional and recent imbalanced classification algorithms.
-
-Paper Link: https://www.doi.org/10.56726/IRJMETS32590
