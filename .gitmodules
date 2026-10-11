@@ -1,3 +1,6 @@
+[submodule "DecisionTrees"]
+    path = DecisionTrees
+    url = https://github.com/abhinav-bohra/DecisionTrees.git
 [submodule "SVR-Forest"]
     path = SVR-Forest
     url = https://github.com/HrithikPadavala/SVR-Forest.git
